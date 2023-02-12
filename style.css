@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #E5E5E5;
+}
+
+.select {
+    width: 280px;
+    padding: 20px 0 20px 16px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 14 px rgba(0, 0, 0, 0, 1);
+}
+
+.wrapper {
+    margin-top: 20px;
+    width: 280px;
+    border-radius: 8px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 14 px rgba(0, 0, 0, 0, 1);
+    padding-left: 16px;
+}
+.wrapper div{
+    padding: 20px 0 20px 0px;
+}
